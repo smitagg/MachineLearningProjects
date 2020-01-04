@@ -1,3 +1,3 @@
 # MachineLearningProjects
 
-1. House price detection
+1. House price prediction
